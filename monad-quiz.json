@@ -1,0 +1,35 @@
+{
+  "shortDescription": "Fun facts from the Monad testnet world!",
+  "questions": [
+    {
+      "question": "Most fun app on Monad?",
+      "answers": ["Kizzy", "Kuru", "Nadfun"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Supported wallet?",
+      "answers": ["Tonkep", "HAHA", "Keplr"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Txns done on testnet?",
+      "answers": ["1b+", "100k", "1m+"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "NFT on Monad?",
+      "answers": ["Spiky", "Bunbear", "Moondog"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Native token on test?",
+      "answers": ["tMON", "Mona", "ETH"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where to get Faucet?",
+      "answers": ["Friends", "CEX", "Buy"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
